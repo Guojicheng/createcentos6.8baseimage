@@ -1,0 +1,1 @@
+# createcentos6.8baseimage
